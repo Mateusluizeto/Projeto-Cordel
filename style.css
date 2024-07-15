@@ -82,14 +82,12 @@ section#img01{
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
-    display: inline-block;
 }
 
 section#img02{
     background-image: url('background002.jpg');
     background-size: cover;
     background-attachment: fixed;
-    display: inline-block;
 }
 
 footer{
